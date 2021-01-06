@@ -234,7 +234,7 @@ This repository contains a curated list of awesome open source libraries that wi
 * [yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) ![](https://img.shields.io/github/stars/DistrictDataLabs/yellowbrick.svg?style=social) - yellowbrick is a matplotlib-based model evaluation plots for scikit-learn and other machine learning libraries.
 
 ## Industrial Strength NLP
-* [Blackstone](https://github.com/ICLRandD/Blackstone) ![](https://img.shields.io/github/stars/ICLRandD/Blackstone.svg?style=social) - Blackstone is a spaCy model and library for processing long-form, unstructured legal text. Blackstone is an experimental research project from the Incorporated Council of Law Reporting for England and Wales' research lab, ICLR&D.
+* [SparkNLP]https://www.johnsnowlabs.com/spark-nlp-2-7-720-new-models-pipelines-for-192-languages/?utm_medium=email&_hsmi=105516332&_hsenc=p2ANqtz-95DDTIL2VVc4fFWwFjx31xYUSOn2xTWzSJAmrB1YM--kUxJ0c5P2pmmfKKxHXSgTcIOu7bDMgBph6K1Cln_d8vQiE0tw&utm_content=105516332&utm_source=hs_email
 * [CTRL](https://github.com/salesforce/ctrl) ![](https://img.shields.io/github/stars/salesforce/ctrl.svg?style=social) - A Conditional Transformer Language Model for Controllable Generation released by SalesForce
 * [Facebook's XLM](https://github.com/facebookresearch/XLM) ![](https://img.shields.io/github/stars/facebookresearch/XLM.svg?style=social) - PyTorch original implementation of Cross-lingual Language Model Pretraining which includes BERT, XLM, NMT, XNLI, PKM, etc.
 * [Flair](https://github.com/zalandoresearch/flair) ![](https://img.shields.io/github/stars/zalandoresearch/flair.svg?style=social) - Simple framework for state-of-the-art NLP developed by Zalando which builds directly on PyTorch.
